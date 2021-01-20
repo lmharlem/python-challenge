@@ -24,7 +24,7 @@
 
   - The final script will both print the analysis to the terminal and export a text file with the results
 
-  - An example of what the analysis should will look like is shown below:
+  - An example of what the analysis will look like is shown below:
 
 ![](Images/PyBank_Results.PNG)
 
@@ -48,6 +48,6 @@
  
   - The final script will both print the analysis to the terminal and export a text file with the results
 
-  - An example of what the analysis should will look like is shown below:
+  - An example of what the analysis will look like is shown below:
 
 ![](Images/PyPoll_Results.PNG)
