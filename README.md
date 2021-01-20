@@ -34,6 +34,8 @@
 
 ### This challenge writes a script that helps a small, rural town modernize its vote counting process using a set of poll data called election_data.csv. 
 
+![](Images/Election_Data.PNG)
+
 ### This Python script will analyze the records to calculate each of the following:
 
   - The total number of votes cast
