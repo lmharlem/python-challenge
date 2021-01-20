@@ -1,4 +1,4 @@
-#                                                               Py Me Up, Charlie
+# Py Me Up, Charlie :snake:
 
 ## PyBank Challenge
 
@@ -10,7 +10,7 @@
 ![](Images/Budget_data.PNG)
 
 
-This Python script will analyzes the records to calculate each of the following:
+## This Python script will analyzes the records to calculate each of the following:
 
 -The total number of months included in the dataset
 
