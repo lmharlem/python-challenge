@@ -1,4 +1,4 @@
-# __Py Me Up, Charlie__
+# Py Me Up, Charlie
 
 PyBank
 
