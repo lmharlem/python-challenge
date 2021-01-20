@@ -30,7 +30,7 @@ Greatest Increase in Profits: Feb-2012 ($1926159)
 Greatest Decrease in Profits: Sep-2013 ($-2196167)
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-https://github.com/lmharlem/python-challenge/blob/main/Images/Vote_counting.png
+![](Images/Vote_counting.png)
 
 PyPoll
 Vote Counting
