@@ -1,11 +1,11 @@
-# Py Me Up, Charlie
+#                                                               Py Me Up, Charlie
 
 ## PyBank Challenge
 
 ![](Images/revenue-per-lead.png)
 
 
-This challenge creates a Python script for analyzing the financial records of a company using financial data called budget_data.csv. 
+### This challenge creates a Python script for analyzing the financial records of a company using financial data called budget_data.csv. 
 
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
