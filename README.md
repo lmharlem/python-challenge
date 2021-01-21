@@ -27,7 +27,7 @@
   - An example of what the analysis will look like is shown below:
 
 ![](Images/PyBank_Results.PNG)
-# ______________________________________________________________________
+# ___________________________________________________________________
 ## PyPoll Vote Counting Challenge
 ![](Images/Vote_counting.png)
 
